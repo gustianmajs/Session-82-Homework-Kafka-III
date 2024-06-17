@@ -2,9 +2,9 @@
 
 ![alt text](<data/gb/Screenshot 2024-06-17 192156.png>)
 
-Name: Gustian
-Kelompok: A
-Group: 3
+Name: Gustian \n
+Kelompok: A \n
+Group: 3 \n
 
 markdown
 
