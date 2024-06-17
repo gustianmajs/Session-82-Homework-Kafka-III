@@ -1,0 +1,35 @@
+{
+  "namespace": "com.bagas.bitcoin",
+  "type": "record",
+  "name": "BitcoinPrice",
+  "fields": [
+    {
+      "name": "date",
+      "type": "string"
+    },
+    {
+      "name": "open",
+      "type": "float"
+    },
+    {
+      "name": "high",
+      "type": "float"
+    },
+    {
+      "name": "low",
+      "type": "float"
+    },
+    {
+      "name": "close",
+      "type": "float"
+    },
+    {
+      "name": "volume",
+      "type": "string"
+    },
+    {
+      "name": "marketCap",
+      "type": "string"
+    }
+  ]
+}
