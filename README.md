@@ -3,14 +3,11 @@
 ![alt text](<data/gb/Screenshot 2024-06-17 192156.png>)
 
 Name: Gustian
-
 Kelompok: A
-
 Group: 3
 
-### README.md
+markdown
 
-```markdown
 # Kafka Bitcoin Price Streaming
 
 This project demonstrates the use of Apache Kafka to stream Bitcoin price data from a CSV file into a Kafka topic and consume it. The setup involves Docker for running Kafka, Zookeeper, Schema Registry, and Control Center, along with Python scripts for producing and consuming messages.
@@ -31,7 +28,6 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
 - [License](#license)
 
 ## Project Structure
-```
 
 |- data
 | |- bitcoin_price_Training.csv
@@ -44,8 +40,6 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
 |- taxi_ride_value.avsc
 |- bitcoin_price_key.avsc
 |- bitcoin_price_value.avsc
-
-````
 
 ## Prerequisites
 
@@ -60,7 +54,7 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
    ```bash
    git clone https://github.com/yourusername/kafka-bitcoin-price-streaming.git
    cd kafka-bitcoin-price-streaming
-````
+   ```
 
 2. **Install Python dependencies**:
 
