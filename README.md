@@ -27,22 +27,6 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
-
-```
-|- data
-| |- bitcoin_price_Training.csv
-| |- rides.csv
-|- docker-compose.yml
-|- consumer.py
-|- producer.py
-|- requirements.txt
-|- taxi_ride_key.avsc
-|- taxi_ride_value.avsc
-|- bitcoin_price_key.avsc
-|- bitcoin_price_value.avsc
-```
-
 ## Prerequisites
 
 - Docker and Docker Compose
