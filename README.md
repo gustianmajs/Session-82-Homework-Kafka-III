@@ -12,21 +12,6 @@ Group: 3
 
 This project demonstrates the use of Apache Kafka to stream Bitcoin price data from a CSV file into a Kafka topic and consume it. The setup involves Docker for running Kafka, Zookeeper, Schema Registry, and Control Center, along with Python scripts for producing and consuming messages.
 
-## Table of Contents
-
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Avro Schemas](#avro-schemas)
-  - [Bitcoin Price Key Schema](#bitcoin-price-key-schema)
-  - [Bitcoin Price Value Schema](#bitcoin-price-value-schema)
-- [Usage](#usage)
-  - [Run the Producer](#run-the-producer)
-  - [Run the Consumer](#run-the-consumer)
-- [Docker Compose Services](#docker-compose-services)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Prerequisites
 
 - Docker and Docker Compose
