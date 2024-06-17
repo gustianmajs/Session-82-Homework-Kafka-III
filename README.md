@@ -2,11 +2,11 @@
 
 ![alt text](<data/gb/Screenshot 2024-06-17 192156.png>)
 
-Name: Gustian \n
-Kelompok: A \n
-Group: 3 \n
+Name: Gustian
 
-markdown
+Kelompok: A
+
+Group: 3
 
 # Kafka Bitcoin Price Streaming
 
@@ -29,6 +29,7 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
 
 ## Project Structure
 
+```
 |- data
 | |- bitcoin_price_Training.csv
 | |- rides.csv
@@ -40,6 +41,7 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
 |- taxi_ride_value.avsc
 |- bitcoin_price_key.avsc
 |- bitcoin_price_value.avsc
+```
 
 ## Prerequisites
 
@@ -52,8 +54,7 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/kafka-bitcoin-price-streaming.git
-   cd kafka-bitcoin-price-streaming
+   https://github.com/gustianmajs/Session-82-Homework-Kafka-III.git
    ```
 
 2. **Install Python dependencies**:
