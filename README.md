@@ -45,6 +45,8 @@ This project demonstrates the use of Apache Kafka to stream Bitcoin price data f
    - Schema Registry
    - Control Center
 
+![alt text](<data/gb/Screenshot 2024-06-17 192128.png>)
+
 ## Usage
 
 ### Run the Producer
